@@ -1,8 +1,8 @@
 package OurPractice;
 
 public class CarSalah {
-    int a = 12;
-    String b = "ashour";
+    public int a = 12;
+    private String b = "ashour";
     char d = '#';
 
 
