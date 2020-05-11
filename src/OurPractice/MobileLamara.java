@@ -3,6 +3,8 @@ package OurPractice;
 public class MobileLamara {
     public String brand;
     public int storageSize;
+    public int screenSize;
+
 
     public MobileLamara() {
     }
